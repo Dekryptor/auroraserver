@@ -1,0 +1,36 @@
+<shop_item name="random_box_bf_01" type="random_box">
+	<mmo_stats>
+		<param name="item_category" value="RandomBox"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="max_buy_amount" value="5"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@random_box_bf_01_shop_name"/>
+		<param name="description" value="@ui_random_box_bf_01_description"/>
+		<param name="icon" value="randombox_112"/>
+	</UI_stats>
+	<random_box>
+		<group>
+			<item name="ar16_shop" weight="49"/>
+			<item name="shg08_shop" weight="50"/>
+			<item name="smg17_shop" weight="50"/>
+			<item name="sr09_shop" weight="50"/>
+            <item name="smokegrenade14_c" amount="1" weight="6546"/> 
+            <item name="smokegrenade14_c" amount="3" weight="746"/> 
+			<item name="smokegrenade14_c" amount="2" weight="1550"/>
+            <item name="claymoreexplosive04_c" amount="1" weight="500"/> 
+			<item name="claymoreexplosive04_c" amount="2" weight="200"/> 
+            <item name="smokegrenade_gold01_c" amount="3" weight="250"/> 
+        </group>			
+		<group>
+			<item name="exp_item_01"  amount="450" weight="2"/>
+			<item name="exp_item_01"  amount="350" weight="3"/>
+			<item name="exp_item_01"  amount="250" weight="10"/>
+			<item name="exp_item_01"  amount="125" weight="15"/>
+			<item name="exp_item_01"  amount="50" weight="70"/>
+		</group>
+	</random_box>
+</shop_item>
+
+

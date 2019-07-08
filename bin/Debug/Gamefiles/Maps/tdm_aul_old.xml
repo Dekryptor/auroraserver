@@ -1,0 +1,10 @@
+<mission name="@pvp_mission_display_name_tdm_aul_old" time_of_day="9.33" max_players="16" game_mode="tdm" game_mode_cfg="tdm_mode.cfg" uid="bbb33b77-98db-463c-1000-d27655d90690" release_mission="1">
+ <Basemap name="pvp/tdm_aul_old"/>
+ <UI>
+  <Description text="@pvp_tdm_mission_desc" icon="mapImgAul"/>
+  <GameMode text="@tdm_game_mode_desc" icon="tdm_icon"/>
+ </UI>
+ <Sublevels mission_flow="default" win_pool="300" lose_pool="75" draw_pool="100"/>
+ <Objectives />
+ <Teleports />
+</mission>

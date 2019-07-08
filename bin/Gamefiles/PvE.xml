@@ -1,0 +1,74 @@
+﻿<items hash="-2077935616" content_hash="1895837950">
+  <mission mission_key="12aa087d-9a55-4264-b918-e7ba2d7119da" no_teams="1" name="ЯПОНИЯ НА ХУЮ ГОНДОНИНА" setting="" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="ХЗ" image="mapImgJapan_e" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+  <mission mission_key="1bbe889f-cba6-41e2-9844-a2257d3ac25d" no_teams="1" name="Вулкан" setting="survival/africa_survival_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="ХЗ" image="mapImgJapan_e" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+  <mission mission_key="04e90141-8155-4abb-bd38-3294c6b48627" no_teams="1" name="Чернобыль" setting="survival/chernobyl/chernobyl_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="@na_mission_anubis_desc_01" image="mapImgChernobyl_e" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+  <mission mission_key="07059247-7727-457c-823b-0022c9a0953d" no_teams="1" name="Ледокол" setting="survival/chernobyl/chernobyl_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="@na_mission_anubis_desc_01" image="mapImgIcebreaker_e" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+  <mission mission_key="43326743-8d66-4dc8-8444-e1f28341c680" no_teams="1" name="Сноу фортрес" setting="survival/snow_fortress_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="@na_mission_anubis_desc_01" image="mapImgSurvivalSnow1" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+  <mission mission_key="9aa644e6-254f-4569-9f33-b8f9c3e0cf5f" no_teams="1" name="МИССИЯ" setting="china/china_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="@mission_japan_desc_01" image="mapImgJapan_e" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+</items>

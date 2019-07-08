@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<server>
+	<server_check server_addr="127.0.0.1" />
+	<game_exe url="E:/2017/Bin32Release/Game.exe" />
+</server>

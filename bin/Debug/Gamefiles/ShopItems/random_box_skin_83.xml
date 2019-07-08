@@ -1,0 +1,27 @@
+<shop_item name="random_box_83" type="random_box">
+	<mmo_stats>
+		<param name="item_category" value="RandomBox"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="MERS"/>
+		<param name="max_buy_amount" value="5"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@random_box_83_shop_name"/>
+		<param name="description" value="@ui_random_box_83_description"/>
+		<param name="icon" value="randombox_83"/>
+	</UI_stats>
+	<random_box>
+		<group>
+            <item name="smokegrenade_gold01_c" amount="100" weight="15"/> 
+			<item name="smokegrenade_gold01_c" amount="200" weight="2"/> 
+			<item name="smokegrenade_gold01_c" amount="500" weight="1"/> 
+			<item name="smokegrenade04_c" amount="7" weight="90"/>
+			<item name="smokegrenade04_c" amount="3" weight="182"/>
+			<item name="claymoreexplosive04_c" amount="2" weight="100"/>
+			<item name="claymoreexplosive04_c" amount="1" weight="150"/>
+			<item name="flashbang" expiration="1d" weight="250"/>
+			<item name="flashbang" expiration="3d" weight="100"/>
+			<item name="booster_02"  expiration="1h" weight="110"/>
+		</group>
+	</random_box>
+</shop_item>

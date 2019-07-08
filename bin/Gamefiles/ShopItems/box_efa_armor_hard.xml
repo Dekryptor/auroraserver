@@ -1,0 +1,26 @@
+<shop_item name="box_efa_armor_hard" type="random_box">
+	<mmo_stats>
+		<param name="item_category" value="RandomBox"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="RESM"/>
+		<param name="shop_item_status" value="new"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@random_box_afro_05_shop_name"/>
+		<param name="description" value="@ui_random_box_afro_05_description"/>
+		<param name="icon" value="randombox_01"/>
+	</UI_stats>
+	<random_box>
+		<group>
+			<item name="sniper_shoes_legend_01" weight="2"/>
+			<item name="sniper_hands_legend_01_03" weight="12"/>
+			<item name="sniper_hands_legend_01_03"  expiration="5h" weight="15"/>
+			<item name="sniper_hands_legend_01_03"  expiration="4h" weight="20"/>
+			<item name="sniper_hands_legend_01_03"  expiration="3h" weight="30"/>
+			<item name="sniper_hands_legend_01_03"  expiration="2h" weight="40"/>
+			<item name="sniper_hands_legend_01_03"  expiration="1h" weight="81"/>
+		</group>
+	</random_box>
+</shop_item>
+
+

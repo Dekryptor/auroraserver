@@ -1,0 +1,40 @@
+F:\Projects\Aurora Server\Aurora Server\obj\Release\Aurora Server.csproj.CoreCompileInputs.cache
+F:\Projects\Aurora Server\Aurora Server\obj\Release\Aurora Server.csprojAssemblyReference.cache
+F:\Projects\Aurora Server\AuroraServer\bin\Release\AuroraServer.exe.config
+F:\Projects\Aurora Server\AuroraServer\bin\Release\AuroraServer.exe
+F:\Projects\Aurora Server\AuroraServer\bin\Release\AuroraServer.pdb
+F:\Projects\Aurora Server\AuroraServer\obj\Release\Aurora Server.csproj.CoreCompileInputs.cache
+F:\Projects\Aurora Server\AuroraServer\obj\Release\Aurora Server.csproj.CopyComplete
+F:\Projects\Aurora Server\AuroraServer\obj\Release\AuroraServer.exe
+F:\Projects\Aurora Server\AuroraServer\obj\Release\AuroraServer.pdb
+F:\Проекты\Aurora Server\bin\Release\AuroraServer.exe.config
+F:\Проекты\Aurora Server\bin\Release\AuroraServer.exe
+F:\Проекты\Aurora Server\bin\Release\AuroraServer.pdb
+F:\Проекты\Aurora Server\obj\Release\Aurora Server.csproj.CoreCompileInputs.cache
+F:\Проекты\Aurora Server\obj\Release\Aurora Server.csproj.CopyComplete
+F:\Проекты\Aurora Server\obj\Release\AuroraServer.exe
+F:\Проекты\Aurora Server\obj\Release\AuroraServer.pdb
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\obj\Release\Aurora Server.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\obj\Release\Aurora Server.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\obj\Release\AuroraServer.exe
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\obj\Release\AuroraServer.pdb
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\bin\Release\AuroraServer.exe.config
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\bin\Release\AuroraServer.exe
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\bin\Release\AuroraServer.pdb
+C:\Users\Дмитрий\Downloads\Aurora\Aurora Server\obj\Release\Aurora Server.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\obj\Release\Aurora Server.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\obj\Release\Aurora Server.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\obj\Release\AuroraServer.exe
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\obj\Release\AuroraServer.pdb
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\bin\Release\AuroraServer.exe.config
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\bin\Release\AuroraServer.exe
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\bin\Release\AuroraServer.pdb
+C:\Users\Дмитрий\Desktop\Исходники\Aurora mssql\Aurora Server\obj\Release\Aurora Server.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\bin\Release\AuroraServer.exe.config
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\bin\Release\AuroraServer.exe
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\bin\Release\AuroraServer.pdb
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\obj\Release\Aurora Server.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\obj\Release\Aurora Server.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\obj\Release\Aurora Server.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\obj\Release\AuroraServer.exe
+C:\Users\Дмитрий\Desktop\Исходники\mow server 2.0\Aurora Server\obj\Release\AuroraServer.pdb

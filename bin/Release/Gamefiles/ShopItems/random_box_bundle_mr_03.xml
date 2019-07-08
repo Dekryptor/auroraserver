@@ -1,0 +1,15 @@
+<shop_item name="random_box_bundle_mr_03" type="bundle">
+	<mmo_stats>
+		<param name="item_category" value="Bundle"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="MERS"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@smg30_zsd01_shop_name"/>
+		<param name="description" value="@ui_weapons_smg30_zsd01"/>
+		<param name="icon" value="smg30_zsd01"/>
+	</UI_stats>
+		<bundle>
+			<item name="smg30_zsd01_shop" expiration="1d"/>
+		</bundle>
+</shop_item>

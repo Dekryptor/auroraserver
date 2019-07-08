@@ -1,0 +1,14 @@
+<mission name="test_shield_gameplay_e" time_of_day="12" game_mode="pve" game_mode_cfg="pve_mode.cfg" uid="0b6e20c2-35b9-4327-83df-1963d5dd0115" release_mission="0" autostart_only="0" clan_war_mission="0" only_clan_war_mission="0" difficulty="easy" mission_type="easymission">
+ <Basemap name="test_levels/test_base"/>
+ <UI>
+  <Description text="@easy_mission_desc" icon="mapImgAfgan"/>
+  <GameMode text="@PvE_game_mode_desc"/>
+ </UI>
+ <Sublevels>
+  <Sublevel id="0" name="test_levels/test_shield_gameplay" mission_flow="arena_flow" score="0" difficulty="easy" difficulty_cfg="japan_easy.cfg" win_pool="400" lose_pool="300" draw_pool="320" score_pool="200"/>
+ </Sublevels>
+ <Objectives>
+  <Objective type="primary" timelimit="1000"/>
+ </Objectives>
+ <Teleports />
+</mission>

@@ -1,0 +1,17 @@
+namespace AuroraServer.XMPP.QUERY
+{
+	internal enum RoomJoinCodes
+	{
+		MISSION_NOT_AVAILABLE = 1,
+		FULL = 4,
+		GAME_STARTED = 7,
+		BUILD_TYPE = 8,
+		PRIVATE = 9,
+		MISSION_NOT_PERMITTED = 11,
+		NOT_IN_CLAN = 14,
+		CLAN_NOT_PLAY = 0xF,
+		ALL_CLASS_RESTRICTED = 0x10,
+		MSGBOX_BUILD_VERSION_MISMACH = 19,
+		NO_ACCESS_TOKENS = 20
+	}
+}

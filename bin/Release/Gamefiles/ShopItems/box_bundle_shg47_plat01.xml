@@ -1,0 +1,16 @@
+<shop_item name="box_bundle_shg47_plat01" type="bundle">
+	<mmo_stats>
+		<param name="item_category" value="Bundle"/>
+		<param name="shopcontent" value="1"/>
+		<param name="classes" value="M"/>
+	</mmo_stats>
+	<UI_stats>
+		<param name="name" value="@box_bundle_shg47_plat01"/>
+		<param name="description" value="@box_bundle_shg47_plat01_description"/>
+		<param name="icon" value="shg47_gold02"/>
+	</UI_stats>
+		<bundle>
+			<item name="shg47_gold02skin_shop" regular=""/>
+			<item name="shg47_gold01_shop"/>
+		</bundle>
+</shop_item>

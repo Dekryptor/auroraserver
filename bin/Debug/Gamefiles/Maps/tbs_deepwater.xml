@@ -1,0 +1,10 @@
+<mission name="@pvp_mission_display_name_tbs_deepwater" time_of_day="13" game_mode="tbs" game_mode_cfg="tbs_mode.cfg" uid="a8ee23a0-da5a-4a25-823f-23dcf98198c2" release_mission="1" autostart_only="0" clan_war_mission="1" only_clan_war_mission="0" channels="">
+ <Basemap name="pvp/tbs_deepwater"/>
+ <UI>
+  <Description text="@pvp_tbs_mission_desc" icon="mapImgtbs_deepwater"/>
+  <GameMode text="@pvp_tbs_game_mode_desc"/>
+ </UI>
+ <Sublevels mission_flow="default" win_pool="200" lose_pool="68" draw_pool="100" score_pool="200"/>
+ <Objectives />
+ <Teleports />
+</mission>

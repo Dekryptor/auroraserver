@@ -1,0 +1,10 @@
+<Mission name="@pvp_mission_display_name_ptb_afghan_old" release_mission="1" time_of_day="9:33" max_players="16" game_mode="ptb" game_mode_cfg="ptb_mode.cfg" uid="123bec5b-a1c2-42a0-1000-3a5e89aaf014">
+  <Basemap name="pvp/ptb_afghan_old"/>
+  <UI>
+   <Description text="@info_ptb_afghan" icon="mapImgPtb" />
+   <GameMode text="@ptb_game_mode_desc" icon="tdm_icon" />
+  </UI>
+  <Sublevels mission_flow="default" win_pool="400" lose_pool="135" draw_pool="200"/>
+ <Objectives/>
+ <Teleports/>  
+</Mission>

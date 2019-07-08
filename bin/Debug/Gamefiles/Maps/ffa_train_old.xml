@@ -1,0 +1,10 @@
+<mission name="@pvp_mission_display_name_ffa_train_old" time_of_day="12" max_players="16" game_mode="ffa" game_mode_cfg="ffa_mode.cfg" uid="c61ea94f-505d-4860-1000-3e02a1a54d9c" release_mission="1">
+ <Basemap name="pvp/ffa_train_old"/>
+ <UI>
+  <Description text="@pvp_ffa_mission_desc" icon="mapImgFfa_train"/>
+  <GameMode text="@pvp_ffa_game_mode_desc" icon="pvp_ffa_game_mode_icon"/>
+ </UI>
+ <Sublevels mission_flow="default" win_pool="300" lose_pool="300" draw_pool="300"/>
+ <Objectives />
+ <Teleports />
+</mission>

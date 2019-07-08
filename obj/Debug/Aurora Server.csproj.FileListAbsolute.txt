@@ -1,0 +1,30 @@
+F:\Projects\Aurora Server\Aurora Server\bin\Debug\Aurora Server.exe.config
+F:\Projects\Aurora Server\Aurora Server\bin\Debug\Aurora Server.exe
+F:\Projects\Aurora Server\Aurora Server\bin\Debug\Aurora Server.pdb
+F:\Projects\Aurora Server\Aurora Server\obj\Debug\Aurora Server.csprojAssemblyReference.cache
+F:\Projects\Aurora Server\Aurora Server\obj\Debug\Aurora Server.csproj.CoreCompileInputs.cache
+F:\Projects\Aurora Server\Aurora Server\obj\Debug\Aurora Server.exe
+F:\Projects\Aurora Server\Aurora Server\obj\Debug\Aurora Server.pdb
+F:\Projects\Aurora Server\AuroraServer\obj\Debug\Aurora Server.csproj.CoreCompileInputs.cache
+F:\Projects\Aurora Server\AuroraServer\bin\Debug\AuroraServer.exe.config
+F:\Projects\Aurora Server\AuroraServer\bin\Debug\AuroraServer.exe
+F:\Projects\Aurora Server\AuroraServer\bin\Debug\AuroraServer.pdb
+F:\Projects\Aurora Server\AuroraServer\bin\Debug\agsXMPP.dll
+F:\Projects\Aurora Server\AuroraServer\bin\Debug\DotNetZip.dll
+F:\Projects\Aurora Server\AuroraServer\bin\Debug\MySql.Data.dll
+F:\Projects\Aurora Server\AuroraServer\bin\Debug\Google.Protobuf.dll
+F:\Projects\Aurora Server\AuroraServer\obj\Debug\Aurora Server.csproj.CopyComplete
+F:\Projects\Aurora Server\AuroraServer\obj\Debug\AuroraServer.exe
+F:\Projects\Aurora Server\AuroraServer\obj\Debug\AuroraServer.pdb
+D:\Aurora Server\bin\Debug\AuroraServer.exe.config
+D:\Aurora Server\bin\Debug\AuroraServer.exe
+D:\Aurora Server\bin\Debug\AuroraServer.pdb
+D:\Aurora Server\bin\Debug\agsXMPP.dll
+D:\Aurora Server\bin\Debug\DotNetZip.dll
+D:\Aurora Server\bin\Debug\MySql.Data.dll
+D:\Aurora Server\bin\Debug\Google.Protobuf.dll
+D:\Aurora Server\obj\Debug\Aurora Server.csprojAssemblyReference.cache
+D:\Aurora Server\obj\Debug\Aurora Server.csproj.CoreCompileInputs.cache
+D:\Aurora Server\obj\Debug\Aurora Server.csproj.CopyComplete
+D:\Aurora Server\obj\Debug\AuroraServer.exe
+D:\Aurora Server\obj\Debug\AuroraServer.pdb

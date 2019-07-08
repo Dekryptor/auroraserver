@@ -1,0 +1,10 @@
+<mission name="test_shadow_distance_scale" time_of_day="9.00" game_mode="tdm" game_mode_cfg="tdm_mode.cfg" uid="cf298200-bb4d-11e8-a89f-448a5bd457a9" release_mission="0" clan_war_mission="0" only_clan_war_mission="0" channels="pvp_newbie, pvp_skilled, pvp_pro">
+ <Basemap name="test_levels/test_shadow_distance_scale"/>
+ <UI>
+  <Description text="Test Level" icon="mapImgAfgan"/>
+  <GameMode text="@pvp_tdm_game_mode_desc" icon="pve_icon"/>
+ </UI>
+ <Sublevels mission_flow="default" win_pool="35" lose_pool="15" draw_pool="25" score_pool="35"/>
+ <Objectives/>
+ <Teleports/>
+</mission>

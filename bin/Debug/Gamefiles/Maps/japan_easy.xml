@@ -1,0 +1,93 @@
+<mission name="japan_easy" time_of_day="12" game_mode="pve" game_mode_cfg="pve_mode.cfg" uid="c494a7c1-f6a1-48a2-8d16-602b96ec7efe" release_mission="1" clan_war_mission="0" only_clan_war_mission="0" difficulty="easy" mission_type="easymission" comics_intro="JapanSurvivalIntro.xml">
+ <Basemap name="Survival/japan/japan_base"/>
+ <UI>
+  <Description text="@mission_japan_desc_01" icon="mapImgJapan_e"/>
+  <GameMode text="@PvE_game_mode_desc"/>
+ </UI>
+ <Sublevels>
+  <Sublevel id="0" name="survival/japan/japan_act1" mission_flow="passage" score="0" difficulty="easy" difficulty_cfg="japan_easy.cfg" win_pool="1500" lose_pool="50" draw_pool="125" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1520000" silver="1358000" bronze="1130300"/>
+    <Time gold="2100" silver="2520" bronze="3360"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="20"/>
+    <Pool name="2" value="50"/>
+    <Pool name="3" value="80"/>
+    <Pool name="4" value="110"/>
+    <Pool name="5" value="145"/>
+    <Pool name="6" value="145"/>
+    <Pool name="7" value="185"/>
+    <Pool name="8" value="210"/>
+    <Pool name="9" value="250"/>
+    <Pool name="10" value="305"/>
+   </RewardPools>
+  </Sublevel>
+  <Sublevel id="1" name="survival/japan/japan_act2" mission_flow="passage" score="0" difficulty="easy" difficulty_cfg="japan_easy.cfg" win_pool="1500" lose_pool="50" draw_pool="125" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1520000" silver="1358000" bronze="1130300"/>
+    <Time gold="2100" silver="2520" bronze="3360"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="20"/>
+    <Pool name="2" value="50"/>
+    <Pool name="3" value="80"/>
+    <Pool name="4" value="110"/>
+    <Pool name="5" value="145"/>
+    <Pool name="6" value="145"/>
+    <Pool name="7" value="185"/>
+    <Pool name="8" value="210"/>
+    <Pool name="9" value="250"/>
+    <Pool name="10" value="305"/>
+   </RewardPools>
+  </Sublevel>
+  <Sublevel id="2" name="survival/japan/japan_act3" mission_flow="passage" score="0" difficulty="easy" difficulty_cfg="japan_easy.cfg" win_pool="1500" lose_pool="50" draw_pool="125" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1520000" silver="1358000" bronze="1130300"/>
+    <Time gold="2100" silver="2520" bronze="3360"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="20"/>
+    <Pool name="2" value="50"/>
+    <Pool name="3" value="80"/>
+    <Pool name="4" value="110"/>
+    <Pool name="5" value="145"/>
+    <Pool name="6" value="145"/>
+    <Pool name="7" value="185"/>
+    <Pool name="8" value="210"/>
+    <Pool name="9" value="250"/>
+    <Pool name="10" value="305"/>
+   </RewardPools>
+  </Sublevel>
+  <Sublevel id="3" name="survival/japan/japan_act4" mission_flow="arena_flow" score="0" difficulty="easy" difficulty_cfg="japan_easy.cfg" win_pool="1500" lose_pool="50" draw_pool="125" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1520000" silver="1358000" bronze="1130300"/>
+    <Time gold="2100" silver="2520" bronze="3360"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="20"/>
+    <Pool name="2" value="50"/>
+    <Pool name="3" value="80"/>
+    <Pool name="4" value="110"/>
+    <Pool name="5" value="145"/>
+    <Pool name="6" value="145"/>
+    <Pool name="7" value="185"/>
+    <Pool name="8" value="210"/>
+    <Pool name="9" value="250"/>
+    <Pool name="10" value="305"/>
+   </RewardPools>
+  </Sublevel>
+ </Sublevels>
+ <Objectives>
+  <Objective type="primary" timelimit="18000"/>
+ </Objectives>
+ <Teleports>
+  <Teleport start_sublevel_id="0" start_teleport="japan_act1_end" finish_sublevel_id="1" finish_teleport="japan_act2_start"/>
+  <Teleport start_sublevel_id="1" start_teleport="japan_act2_end" finish_sublevel_id="2" finish_teleport="japan_act3_start"/>
+  <Teleport start_sublevel_id="2" start_teleport="japan_act3_end" finish_sublevel_id="3" finish_teleport="japan_act4_start"/>
+ </Teleports>
+</mission>

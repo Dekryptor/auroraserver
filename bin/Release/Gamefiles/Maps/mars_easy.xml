@@ -1,0 +1,89 @@
+<mission name="mars_easy" time_of_day="12" game_mode="pve" game_mode_cfg="pve_mode.cfg" uid="91b17158-996e-4e1d-b392-158399142264" release_mission="0" clan_war_mission="0" only_clan_war_mission="0" difficulty="easy" mission_type="easymission" comics_intro="MarsSurvivalIntro.xml">
+ <Basemap name="Survival/mars/mars_base"/>
+ <UI>
+  <Description text="@mission_mars_name" icon="mapImgMars_e"/>
+  <GameMode text="@PvE_game_mode_desc"/>
+ </UI>
+ <Sublevels>
+  <Sublevel id="0" name="survival/mars/mars_act1" mission_flow="passage" score="0" difficulty="easy" difficulty_cfg="mars_easy_mars.cfg" win_pool="2100" lose_pool="50" draw_pool="105" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1566000" silver="1433000" bronze="1230000"/>
+    <Time gold="2010" silver="2400" bronze="3060"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="75"/>
+    <Pool name="2" value="95"/>
+    <Pool name="3" value="135"/>
+    <Pool name="4" value="170"/>
+    <Pool name="5" value="205"/>
+    <Pool name="6" value="215"/>
+    <Pool name="7" value="250"/>
+    <Pool name="8" value="280"/>
+    <Pool name="9" value="325"/>
+   </RewardPools>
+  </Sublevel>
+  <Sublevel id="1" name="survival/mars/mars_act2" mission_flow="passage" score="0" difficulty="easy" difficulty_cfg="mars_easy_earth.cfg" win_pool="2100" lose_pool="50" draw_pool="105" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1566000" silver="1433000" bronze="1230000"/>
+    <Time gold="2010" silver="2400" bronze="3060"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="75"/>
+    <Pool name="2" value="95"/>
+    <Pool name="3" value="135"/>
+    <Pool name="4" value="170"/>
+    <Pool name="5" value="205"/>
+    <Pool name="6" value="215"/>
+    <Pool name="7" value="250"/>
+    <Pool name="8" value="280"/>
+    <Pool name="9" value="325"/>
+   </RewardPools>
+  </Sublevel>
+  <Sublevel id="2" name="survival/mars/mars_act3" mission_flow="passage" score="0" difficulty="easy" difficulty_cfg="mars_easy_mars.cfg" win_pool="2100" lose_pool="50" draw_pool="105" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1566000" silver="1433000" bronze="1230000"/>
+    <Time gold="2010" silver="2400" bronze="3060"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="75"/>
+    <Pool name="2" value="95"/>
+    <Pool name="3" value="135"/>
+    <Pool name="4" value="170"/>
+    <Pool name="5" value="205"/>
+    <Pool name="6" value="215"/>
+    <Pool name="7" value="250"/>
+    <Pool name="8" value="280"/>
+    <Pool name="9" value="325"/>
+   </RewardPools>
+  </Sublevel>
+  <Sublevel id="3" name="survival/mars/mars_act4" mission_flow="arena_flow" score="0" difficulty="easy" difficulty_cfg="mars_easy_mars.cfg" win_pool="2100" lose_pool="50" draw_pool="105" score_pool="0">
+   <CrownRewardsThresholds>
+    <TotalPerformance gold="1566000" silver="1433000" bronze="1230000"/>
+    <Time gold="2010" silver="2400" bronze="3060"/>
+   </CrownRewardsThresholds>
+   <RewardPools>
+    <Pool name="0" value="0"/>
+    <Pool name="1" value="75"/>
+    <Pool name="2" value="95"/>
+    <Pool name="3" value="135"/>
+    <Pool name="4" value="170"/>
+    <Pool name="5" value="205"/>
+    <Pool name="6" value="215"/>
+    <Pool name="7" value="250"/>
+    <Pool name="8" value="280"/>
+    <Pool name="9" value="325"/>
+   </RewardPools>
+  </Sublevel>
+ </Sublevels>
+ <Objectives>
+  <Objective type="primary" timelimit="18000"/>
+ </Objectives>
+ <Teleports>
+  <Teleport start_sublevel_id="0" start_teleport="mars_act1_end" finish_sublevel_id="1" finish_teleport="mars_act2_start"/>
+  <Teleport start_sublevel_id="1" start_teleport="mars_act2_end" finish_sublevel_id="2" finish_teleport="mars_act3_start"/>
+  <Teleport start_sublevel_id="2" start_teleport="mars_act3_end" finish_sublevel_id="3" finish_teleport="mars_act4_start"/>
+ </Teleports>
+</mission>

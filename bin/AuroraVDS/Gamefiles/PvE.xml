@@ -1,0 +1,38 @@
+﻿<items hash="-2077935616" content_hash="1895837950">
+  <mission mission_key="22752c9e-30b6-4332-9483-c4840f86dd91" no_teams="1" name="Китай" setting="china/china_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="Уничтожьте солдат Blackwood" image="mapImgChina" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+    <mission mission_key="42e05fb3-5cd1-41ce-8bd0-7dd17478bd71" no_teams="1" name="Косово" setting="Kosovo/kosovo_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="В данной местности находится большое скопление сил Blackwood,уничтожьте их" image="mapImgKosovo" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+      <mission mission_key="46046694-e675-4913-b2ae-601ab2f4db4b" no_teams="1" name="Косово 2" setting="Kosovo/kosovo_base" mode="pve" mode_name="@PvE_game_mode_desc" mode_icon="pve_icon" description="В данной местности находится большое скопление сил Blackwood,уничтожьте их" image="mapImgKosovo" difficulty="easy" type="trainingmission" time_of_day="12:00">
+    <objectives factor="2">
+      <objective id="0" type="primary" />
+      <objective id="10" type="secondary" />
+      <objective id="15" type="secondary" />
+    </objectives>
+    <CrownRewardsThresholds>
+      <TotalPerformance bronze="60180" silver="87560" gold="144500" />
+      <Time bronze="4192419" silver="4193068" gold="4193363" />
+    </CrownRewardsThresholds>
+    <CrownRewards bronze="7" silver="19" gold="34" />
+  </mission>
+</items>

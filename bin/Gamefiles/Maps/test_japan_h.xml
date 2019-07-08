@@ -1,0 +1,14 @@
+<mission name="test_japan_h" time_of_day="12" game_mode="pve" game_mode_cfg="pve_mode.cfg" uid="0df935b6-1c15-4502-87a6-69109cd0f426" release_mission="0" autostart_only="0" clan_war_mission="0" only_clan_war_mission="0" difficulty="hard" mission_type="hardmission">
+ <Basemap name="test_levels/test_base"/>
+ <UI>
+  <Description text="@easy_mission_desc" icon="mapImgAfgan"/>
+  <GameMode text="@PvE_game_mode_desc"/>
+ </UI>
+ <Sublevels>
+  <Sublevel id="0" name="test_levels/test_japan_features" mission_flow="arena_flow" score="0" difficulty="hard" difficulty_cfg="japan_hard.cfg" win_pool="400" lose_pool="300" draw_pool="320" score_pool="200"/>
+ </Sublevels>
+ <Objectives>
+  <Objective type="primary" timelimit="1000"/>
+ </Objectives>
+ <Teleports />
+</mission>
